@@ -1,12 +1,12 @@
 # Long Trail Appraisal, Inc.
 
-**Certified residential real estate appraisals in northern Vermont, serving lenders, homeowners, attorneys and families since 1998.**
+**Residential real estate appraisal services in northern Vermont since 1998.**
 
 Based in Jeffersonville, VT. Franklin, Lamoille, Orleans, Caledonia and Essex counties.
 
 [Website](https://longtrailappraisal.com) · [Request an appraisal](https://longtrailappraisal.com/#contact) · (802) 999-3825
 
-## What we appraise for
+## Services Provided
 
 - Mortgage, refinance and FHA-approved assignments
 - Property tax appeals
