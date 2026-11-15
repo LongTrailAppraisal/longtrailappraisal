@@ -2,7 +2,8 @@
 
 **Residential real estate appraisal services in northern Vermont since 1998.**
 
-Based in Jeffersonville, VT. Franklin, Lamoille, Orleans, Caledonia and Essex counties.
+Based in Jeffersonville, VT. 
+Serving Franklin, Lamoille, Orleans, Caledonia and Essex counties.
 
 [Website](https://longtrailappraisal.com) · [Request an appraisal](https://longtrailappraisal.com/#contact) · (802) 999-3825
 
