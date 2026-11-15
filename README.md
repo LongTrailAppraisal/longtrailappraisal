@@ -14,6 +14,16 @@ Based in Jeffersonville, VT. Franklin, Lamoille, Orleans, Caledonia and Essex co
 - Divorce settlements
 - For-sale-by-owner pricing
 
+## Free software for appraisers
+
+I build tools for my own appraisal practice and share the ones other appraisers can use.
+
+| Project | What it is |
+| --- | --- |
+| [Appraiser Sketch](https://github.com/longtrailappraisal/appraiser-sketch) | Free floor sketch and ANSI Z765 area calculator, with interior walls for floor plans. Runs in your browser and your files stay on your computer. **[Use it now →](https://longtrailappraisal.github.io/appraiser-sketch/)** |
+
+Feedback and bug reports are welcome on each project's Issues tab.
+
 ---
 
 *Vermont Certified Residential Appraiser. This profile is for the business; for an appraisal, please use the website above rather than GitHub.*
